@@ -1,0 +1,13 @@
+linux-firmware-non-free
+amd64-microcode
+nvidia-304 driver
+pepperflashplugin-nonfree
+virtualbox-nonfree
+gufw
+chromium-browser
+dropbox
+clementine
+FSLint
+Luckybackup
+wavemon
+
